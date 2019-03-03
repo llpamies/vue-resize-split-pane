@@ -284,4 +284,12 @@ export default {
   overflow: hidden;
   user-select: text;
 }
+
+.columns {
+  flex-direction: row;
+}
+
+.rows {
+  flex-direction: column;
+}
 </style>
